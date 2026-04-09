@@ -26,3 +26,11 @@ This tool is perfect for buyers looking to quickly estimate the financial breakd
    ```bash
    git clone [https://github.com/Nethaji2606/thinkpalm-agentai-Nethaji-GetItOwn.git](https://github.com/Nethaji2606/thinkpalm-agentai-Nethaji-GetItOwn.git)
    cd thinkpalm-agentai-Nethaji-GetItOwn
+
+## ▶️ How to run?
+Step 1: open a google colab
+Step 2: copy and paste the code snipet from 'src/bike_assistant.py' and run the code
+step 3: enter a bike name from 'Available Bikes' list
+step 4: enter a down payment amount
+
+and you can see the EMI break down table list
